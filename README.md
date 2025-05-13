@@ -6,7 +6,7 @@ This project dives into the backend data of a Zomato-like food delivery platform
 
 
 
-OBJECTIVES
+* OBJECTIVES
 
 Understand Customer Behavior: Analyze patterns, churn, segmentation, and preferences.
 
@@ -18,7 +18,7 @@ Rider Efficiency: Measure delivery performance, time, and earnings.
 
 
 
-Key Business Questions Answered
+* Key Business Questions Answered
 
 Who are the top customers and what dishes do they prefer?
 
@@ -38,7 +38,9 @@ What is the delivery performance and cancellation rate across years?
 
 
 
-KEY BUSINESS INSIGHTS
+
+
+* KEY BUSINESS INSIGHTS
 
 1. Peak Ordering Hours
 Most orders are placed between 14:00–16:00, 18:00–20:00, and 22:00–00:00.
@@ -101,7 +103,8 @@ Mumbai leads with ₹1.52M, followed by Bengaluru and Delhi.
 
 
 
-DATA CLEANING CHECKS
+
+* DATA CLEANING CHECKS
 
 Ensured NULL values were addressed before analysis:
 
@@ -117,7 +120,8 @@ SELECT * FROM orders WHERE order_item IS NULL OR order_date IS NULL OR total_amo
 
 
 
-PROJECT STRUCTURE 
+
+* PROJECT STRUCTURE 
 
 Food-Delivery-SQL-Project
 <br>
@@ -137,7 +141,8 @@ Food-Delivery-SQL-Project
 
 
 
-TECH STACK
+
+* TECH STACK
 
 Database: SQL Server
 
@@ -146,7 +151,7 @@ Language: SQL (T-SQL)
 Tools: Power BI 
 
 
-CONCLUSION
+* CONCLUSION
 
 This project demonstrates expertise in SQL for solving real-world business problems in the food delivery domain. It showcases advanced querying techniques, structured problem-solving, and the ability to extract actionable insights from transactional data.
 
